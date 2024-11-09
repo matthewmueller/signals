@@ -1,0 +1,4 @@
+github.com/matryer/is v1.4.1 h1:55ehd8zaGABKLXQUe2awZ99BD/PTc2ls+KV/dXphgEQ=
+github.com/matryer/is v1.4.1/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
+github.com/matthewmueller/testchild v0.0.1 h1:llkDPWCc9I2pWwZ+tT3HWhWkv00RaF5+4Yn2/dLGT/Q=
+github.com/matthewmueller/testchild v0.0.1/go.mod h1:ZRwFgyiusaSAMlcuMFCU1NtZjs+o+QD7x/glsqXvB2Q=
